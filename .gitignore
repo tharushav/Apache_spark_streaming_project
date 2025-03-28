@@ -1,6 +1,9 @@
 # Environment variables file with sensitive information
 .env
 
+# Python virtual environment
+myenv/
+
 # Python artifacts
 __pycache__/
 *.py[cod]
@@ -28,4 +31,4 @@ var/
 .DS_Store
 Thumbs.db
 
-.myenv
+
