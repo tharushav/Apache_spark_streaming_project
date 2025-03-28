@@ -2,7 +2,7 @@
 
 A streaming data analytics pipeline that processes census data in real-time, extracts insights, detects anomalies, and visualizes results through an interactive dashboard.
 
-![Dashboard Preview](dashboard_preview.png) <!-- You'll need to capture and add this image -->
+![Dashboard Preview](dashboard_preview.png)
 
 ## Architecture
 
